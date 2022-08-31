@@ -67,7 +67,7 @@ The farms can be found in the following repos:
 1. [liquidity-direciton-protocol](https://github.com/GetAlluo/liquidity-direction-protocol)
 2. [investment-strategies](https://github.com/GetAlluo/investment-strategies)
 3. [exchange](https://github.com/GetAlluo/exchange)
-4. 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
